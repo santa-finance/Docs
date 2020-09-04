@@ -1,11 +1,11 @@
 ## Not only for your average crypto-whale 🐋  🎅 Santa.finance is the much needed DeFi fairytale 🧚
 
 ### Yield Farming or liquidity mining revolutionized the token distribution process with no pre-mine, no venture capital, and no founder fees. The goal for yield farming is to have a better distribution of tokens for governance but it has turned out to be quite the opposite. 
-\
+   
 
 ![picture](images/expectation-reality.jpg)
-\
-\
+   
+   
 
 # Introducing Yield Farming 2.0
 
