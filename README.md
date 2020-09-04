@@ -9,7 +9,7 @@ Yield Farming or liquidity mining revolutionized the token distribution process 
 
 Santa.finance introduces a new yield farming mechanism that ensures a very diverse participation in the governance community. $SNTA is mined by three key stakeholders of the santa.finance community. 
 
-![picture](key-stakeholders/.jpg)
+![picture](images/key-stakeholders.jpg)
 
 Projects using only liquidity mining end up with crypto whales acting as lenders, borrowers and governance stakeholders. Santa.finance incentivises user behaviour to encourage participation of everyone. 
 
